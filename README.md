@@ -1,6 +1,6 @@
 [Raw_Sales_Data.xlsx](https://github.com/user-attachments/files/22073717/Raw_Sales_Data.xlsx)
-[Coffee Sales Data Dashboard.xlsx](https://github.com/user-attachments/files/22073716/Coffee.Sales.Data.Dashboard.xlsx)
 [Cleaned_Sales_Data.xlsx](https://github.com/user-attachments/files/22073712/Cleaned_Sales_Data.xlsx)
+[Coffee Sales Data Dashboard.xlsx](https://github.com/user-attachments/files/22073716/Coffee.Sales.Data.Dashboard.xlsx)
 # Excel-Coffee-Sales-Dashboard-Data-Cleaning-Visualization
 Interactive Excel dashboard for Coffee Sales: data cleaning, KPIs (sales by country, top 5 customers, revenue trends), and slicers (date, roast type, loyalty card, size, coffee type).
 
